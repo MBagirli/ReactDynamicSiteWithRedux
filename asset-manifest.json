@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactDynamicSiteWithRedux/static/css/main.5f67a552.css",
+    "main.js": "/ReactDynamicSiteWithRedux/static/js/main.21092e60.js",
+    "index.html": "/ReactDynamicSiteWithRedux/index.html",
+    "static/media/cart-outline.svg": "/ReactDynamicSiteWithRedux/static/media/cart-outline.f6f29f66ba87b037b443feaede098b77.svg",
+    "main.5f67a552.css.map": "/ReactDynamicSiteWithRedux/static/css/main.5f67a552.css.map",
+    "main.21092e60.js.map": "/ReactDynamicSiteWithRedux/static/js/main.21092e60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f67a552.css",
+    "static/js/main.21092e60.js"
+  ]
+}
