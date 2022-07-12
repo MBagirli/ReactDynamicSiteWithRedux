@@ -1,0 +1,6 @@
+.container {
+  width: 70%;
+  height: 400px;
+  list-style: none;
+  overflow: auto;
+}

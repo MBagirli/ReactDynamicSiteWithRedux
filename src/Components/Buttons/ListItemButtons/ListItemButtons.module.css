@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  padding: 10px 0;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  background-color: #882104;
+  transition: all 0.3s;
+}
+
+.container__p {
+  color: #fff;
+}
+
+.container:hover {
+  transition: all 0.3s;
+  cursor: pointer;
+  background-color: #fd7e14;
+  transform: translate(0, -2px);
+}
+
+@media (max-width: 462px) {
+  .container {
+    width: 80%;
+  }
+}

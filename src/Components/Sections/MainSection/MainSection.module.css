@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  height: 300px;
+}
+.container__img {
+  width: 100%;
+  height: 100%;
+  background-image: url(https://img.freepik.com/free-photo/set-sushi-shrimp-maki-with-bottle-wine-stone-table-top-view-with-copy-space_96727-1926.jpg?w=1380);
+  clip-path: polygon(0 100%, 0 0, 100% 0, 100% 70%);
+  background-size: 100% 100%;
+}

@@ -1,0 +1,22 @@
+#success {
+  background-color: #37b24d;
+}
+
+#error {
+  background-color: #f03e3e;
+}
+
+#loading {
+  background-color: #339af0;
+}
+
+.container {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 50;
+}
+
+.container__p {
+  text-align: center;
+}

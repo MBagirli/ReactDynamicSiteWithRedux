@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.container__firstContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.container__firstContainer__price {
+  color: #882104;
+}
+
+.container__secondCotainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.container__secondCotainer__container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.container__secondCotainer__container__input {
+  width: 60px;
+  height: 40px;
+  font-size: 44px;
+}

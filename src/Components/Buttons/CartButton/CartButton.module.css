@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  align-items: center;
+  background-color: #581503;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  gap: 15px;
+  padding: 5px 30px;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.container__img {
+  width: 35px;
+  height: 35px;
+}
+
+.container__price {
+  background-color: #fd7e14;
+  border-radius: 13px;
+  color: #fff;
+  padding: 5px 12px;
+}
+
+.container:hover {
+  transition: all 0.3s;
+  cursor: pointer;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 455px) {
+  .container {
+    gap: 10px;
+  }
+  .container__img {
+    width: 30px;
+    height: 30px;
+  }
+}

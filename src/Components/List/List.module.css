@@ -1,0 +1,12 @@
+.container {
+  background-color: #fff;
+  width: 70%;
+  border-radius: 20px;
+  list-style: none;
+}
+
+@media (max-width: 685px) {
+  .container {
+    width: 100%;
+  }
+}

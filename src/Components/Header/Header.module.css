@@ -1,0 +1,21 @@
+.container {
+  height: 80px;
+  background-color: #882104;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  position: sticky;
+  top: 0px;
+  z-index: 50;
+}
+
+#Opened {
+  top: 20px;
+}
+
+@media (max-width: 455px) {
+  .container {
+    font-size: 10px;
+  }
+}
