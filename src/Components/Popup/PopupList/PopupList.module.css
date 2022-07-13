@@ -4,3 +4,9 @@
   list-style: none;
   overflow: auto;
 }
+
+@media (max-width: 685px) {
+  .container {
+    width: 90%;
+  }
+}
